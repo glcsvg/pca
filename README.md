@@ -1,1 +1,3 @@
 # pca
+
+-Öznitelik sayısını azalatma
